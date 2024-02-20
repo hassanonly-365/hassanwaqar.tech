@@ -1,0 +1,13 @@
+h1{
+    font-size: 3rem;
+    background-color: bisque;
+color: blueviolet;
+
+}
+body{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
