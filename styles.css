@@ -1,0 +1,13 @@
+h1{
+    font-size: 3rem;
+    background-color: bisque;
+color: rgb(43, 223, 226);
+
+}
+body{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
