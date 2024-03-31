@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export default function page() {
   return (
-    <div className='items-center justify-center align-middle'>
-      <h1>Testing</h1>
-    </div>
-  )
+    <main>
+      <div className="items-center justify-center align-middle">
+        <h1>Hassan Waqar</h1>
+      </div>
+    </main>
+  );
 }
